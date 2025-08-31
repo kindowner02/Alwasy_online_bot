@@ -1,0 +1,13 @@
+{
+  "name": "afk-bot",
+  "version": "1.0.0",
+  "description": "Minecraft AFK Bot running on Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mineflayer": "^4.16.0"
+  }
+}
